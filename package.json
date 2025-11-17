@@ -1,0 +1,27 @@
+{
+  "name": "react-custom-select-text",
+  "version": "1.0.1",
+  "description": "A React multi-select dropdown with checkboxes and input fields per option.",
+  "main": "index.js",
+  "author": "Y Prabavathy",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "dropdown",
+    "multi-select",
+    "checkbox",
+    "input",
+    "form",
+    "react-component",
+    "select-with-textbox",
+    "dropdownwithtextbox",
+    "textboxindropdown",
+    "dropdownwithcheckbox",
+    "react-custom-select-text"
+  ],
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0",
+    "flowbite-react": ">=1.7.0"
+  }
+}
