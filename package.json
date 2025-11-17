@@ -1,10 +1,15 @@
 {
   "name": "react-custom-select-text",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React multi-select dropdown with checkboxes and input fields per option.",
   "main": "index.js",
   "author": "Y Prabavathy",
   "license": "MIT",
+  "homepage": "https://github.com/yprabavathy/react-custom-select-text",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yprabavathy/react-custom-select-text.git"
+  },
   "keywords": [
     "react",
     "dropdown",
