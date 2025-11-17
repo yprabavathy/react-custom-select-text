@@ -1,0 +1,26 @@
+/* style/textinput.css */
+
+/* Custom style for input inside the dropdown */
+.custominput {
+  padding: 0.25rem 0.5rem;  /* smaller padding */
+  font-size: 0.8rem;        /* small font size */
+  border-radius: 0.25rem;   /* rounded corners */
+  border: 1px solid #d1d5db; /* gray border */
+  width: 100%;
+}
+
+/* Optional: when inside the dropdown next to checkbox */
+.custominput.ml-2 {
+  width: 6rem; /* fixed width for small numeric input */
+}
+
+/* Remove default number input arrows (optional) */
+.custominput::-webkit-outer-spin-button,
+.custominput::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.custominput[type=number] {
+  -moz-appearance: textfield;
+}
